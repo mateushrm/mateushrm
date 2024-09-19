@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Mateus+Matos;Tenho+18+anos;Sou+estudante+de+Ciência+da+Computação;Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Mateus+Matos;Tenho+19+anos;Sou+estudante+de+Ciência+da+Computação;Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mateushrm&show_icons=true&count_private=true&hide_border=true&title_color=3CB371&icon_color=3CB371&text_color=c9d1d9&bg_color=0d1117" alt="Mateus Matos github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushrm&layout=compact&hide_border=true&title_color=3CB371&text_color=3CB371&bg_color=0d1117" />
